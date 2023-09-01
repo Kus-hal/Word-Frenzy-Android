@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardElevation="20dp"
+    app:cardCornerRadius="20dp"
+    android:background="@drawable/dialogbg"
+    android:layout_marginTop="10dp">
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="10dp">
+
+        <EditText
+            android:id="@+id/editAddWord"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:autofillHints=""
+            android:hint="@string/enter_new_word"
+            android:inputType="textPersonName"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/btnAddWord"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/add_word"
+            android:backgroundTint="@color/SecondaryDay"/>
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Word Frenzy</string>
+    <string name="logo">Logo</string>
+    <string name="search_word">Search Word</string>
+    <string name="search">Search</string>
+    <string name="results">Results</string>
+    <string name="add_word">Add Word</string>
+    <string name="enter_new_word">Enter New Word</string>
+</resources>
