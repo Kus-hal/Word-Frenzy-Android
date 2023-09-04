@@ -22,6 +22,16 @@ Word Frenzy is a fun and educational Android app that allows users to unscramble
 - **Algorithms**: Implementations of algorithms for word unscrambling and related word searching.
 - **Figma**: Used for designing the user interface and layouts.
 - **Animations**: Animations to enhance the user experience.
+  
+<!--## Screenshots
+
+![Screenshot 1](https://github.com/YourUsername/YourRepo/screenshots/screenshot1.png)
+
+![Screenshot 2](https://github.com/YourUsername/YourRepo/screenshots/screenshot2.png)
+
+## Video Demo
+
+[![Video Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
 
   
 ## Acknowledgments
