@@ -22,19 +22,26 @@ Word Frenzy is a fun and educational Android app that allows users to unscramble
 - **Algorithms**: Implementations of algorithms for word unscrambling and related word searching.
 - **Figma**: Used for designing the user interface and layouts.
 - **Animations**: Animations to enhance the user experience.
+
   
 ## Screenshots
+<img src="https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/0e144fb6-f0d3-4c57-b5d4-7116598b1eef" alt="WordFrenzy" width="200">
+<img src="https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/8dac0c7d-46dd-43b4-b697-e8f886457c1b" alt="Home Page" width="200">
+<img src="https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/54a597f2-2d87-476d-9dac-9b68be4e91a3" alt="Example Text" width="200">
+<img src="https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/8538bf4d-fe54-4533-8b5e-e2152d5fb035" alt="Example Text" width="200">
 
-![WordFrenzy](https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/6d3ceaf0-fa22-4183-bfbd-e6cee5e3a166)
-![HomePage](https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/c0f992a5-0992-4f51-8775-f8f143d80ce2)
-![Example Text](https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/54a597f2-2d87-476d-9dac-9b68be4e91a3)
-![Example Text](https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/8538bf4d-fe54-4533-8b5e-e2152d5fb035)
+
+
+
+
 
 
 ## Video Demo
 
 [![Splash Screen](https://img.youtube.com/vi/Kgp9He_UEp0/0.jpg)](https://www.youtube.com/watch?v=Kgp9He_UEp0)
-[![App Demo](https://www.youtube.com/watch?v=4ADf_YTaKQk/0.jpg)](https://www.youtube.com/watch?v=4ADf_YTaKQk)
+[![App Demo](https://img.youtube.com/vi/4ADf_YTaKQk/0.jpg)](https://www.youtube.com/watch?v=4ADf_YTaKQk)  
+
+
 
 
   
