@@ -23,15 +23,19 @@ Word Frenzy is a fun and educational Android app that allows users to unscramble
 - **Figma**: Used for designing the user interface and layouts.
 - **Animations**: Animations to enhance the user experience.
   
-<!--## Screenshots
+## Screenshots
 
-![Screenshot 1](https://github.com/YourUsername/YourRepo/screenshots/screenshot1.png)
+![WordFrenzy](https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/6d3ceaf0-fa22-4183-bfbd-e6cee5e3a166)
+![HomePage](https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/c0f992a5-0992-4f51-8775-f8f143d80ce2)
+![Example Text](https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/54a597f2-2d87-476d-9dac-9b68be4e91a3)
+![Example Text](https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/8538bf4d-fe54-4533-8b5e-e2152d5fb035)
 
-![Screenshot 2](https://github.com/YourUsername/YourRepo/screenshots/screenshot2.png)
 
 ## Video Demo
 
-[![Video Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID) -->
+[![Splash Screen](https://img.youtube.com/vi/Kgp9He_UEp0/0.jpg)](https://www.youtube.com/watch?v=Kgp9He_UEp0)
+[![App Demo](https://www.youtube.com/watch?v=4ADf_YTaKQk/0.jpg)](https://www.youtube.com/watch?v=4ADf_YTaKQk)
+
 
   
 ## Acknowledgments
