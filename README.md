@@ -47,7 +47,7 @@ Word Frenzy is a fun and educational Android app that allows users to unscramble
   
 ## Acknowledgments
 
-Special thanks to @Harsh5488 for contributing to the project.
+Special thanks to <a href="https://github.com/Harsh5488">Harsh5488</a> for contributing to the project.
 
 ## Getting Started
 
