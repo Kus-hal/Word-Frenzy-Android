@@ -25,7 +25,7 @@ Word Frenzy is a fun and educational Android app that allows users to unscramble
 
   
 ## Screenshots
-<img src="https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/0e144fb6-f0d3-4c57-b5d4-7116598b1eef" alt="WordFrenzy" width="200">
+<img src="https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/0e144fb6-f0d3-4c57-b5d4-7116598b1eef" alt="WordFrenzy" width="200"></br>
 <img src="https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/8dac0c7d-46dd-43b4-b697-e8f886457c1b" alt="Home Page" width="200">
 <img src="https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/54a597f2-2d87-476d-9dac-9b68be4e91a3" alt="Example Text" width="200">
 <img src="https://github.com/Kus-hal/Word-Frenzy-Android/assets/88149584/8538bf4d-fe54-4533-8b5e-e2152d5fb035" alt="Example Text" width="200">
